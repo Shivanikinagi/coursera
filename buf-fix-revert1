@@ -1,0 +1,27 @@
+$ curl https://api.github.com/repos/Shivanikinagi/mcintro-Introduction-to-Git-and-GitHub/pulls
+
+[
+{
+"url": "https://api.github.com/repos/Shivanikinagi/mcintro-Introduction-to-Git-and-GitHub/pulls/1",
+"id": 123456789,
+"number": 1,
+"state": "open",
+"title": "bug-fix-revert1",
+"user": {
+"login": "yourusername"
+},
+"head": {
+"label": "yourusername:bug-fix-revert1",
+"ref": "bug-fix-revert1",
+"repo": {
+"full_name": "yourusername/mcintro-Introduction-to-Git-and-GitHub"
+}
+},
+"base": {
+"ref": "main",
+"repo": {
+"full_name": "ibm-developer-skills-network/mcintro-Introduction-to-Git-and-GitHub"
+}
+}
+}
+]

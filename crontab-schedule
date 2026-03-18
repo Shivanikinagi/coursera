@@ -1,1 +1,1 @@
-0 0 * * * /usr/local/bin/backup.sh /home/user/source /home/user/dest
+0 0 * * * /usr/local/bin/backup.sh /home/shiva/source /home/shiva/destination

@@ -1,1 +1,6 @@
--rw-r--r-- 1 user user 2048 Mar 18 10:05 backup-1710740000.tar.gz
+total 58
+-rw-r--r-- 1 shiva 197609 25319 Mar 18 18:27 Bash Scripting Advanced.md.html
+-rw-r--r-- 1 shiva 197609 12261 Mar 18 18:27 Bash Scripting.md.html
+drwxr-xr-x 1 shiva 197609     0 Mar 18 18:36 New folder/
+-rw-r--r-- 1 shiva 197609  8618 Mar 18 18:57 backup-1773840456.tar.gz
+-rwxr-xr-x 1 shiva 197609  1092 Mar 18 18:42 backup.sh
